@@ -4,7 +4,7 @@
 Dr. El Houssin Atamni — 2025
 
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
-[![DOI](https://img.shields.io/badge/DOI-%C3%A0_venir-orange.svg)](#citation)
+https://doi.org/10.5281/zenodo.20793276
 
 ## Présentation
 
