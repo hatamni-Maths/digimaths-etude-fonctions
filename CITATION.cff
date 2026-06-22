@@ -10,7 +10,7 @@ authors:
 version: "1.0.0"
 date-released: "2025-01-01"
 license: "CC-BY-NC-ND-4.0"
-repository-code: "https://github.com/VOTRE-USERNAME-GITHUB/digimaths-etude-fonctions"
+repository-code: "https://github.com/hatamni-Maths/digimaths-etude-fonctions"
 abstract: >
   Premier guide de la série pédagogique DigiMaths, consacré à l'étude des fonctions
   au secondaire selon la démarche Concret -> GeoGebra -> Algébrique. Sept modules
