@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+type: generic
+message: "Si vous utilisez ce guide, merci de citer la référence ci-dessous."
+title: "Étude des fonctions entre concret et numérique : guide à l'usage des enseignants"
+authors:
+  - family-names: "Atamni"
+    given-names: "El Houssin"
+    orcid: "https://orcid.org/0009-0008-7550-9086"
+    affiliation: "Club DigiMaths, Lycée Mohammed VI, Imouzzer Kandar — Direction Provinciale de Sefrou, Académie Régionale Fès-Meknès, Maroc"
+version: "1.0.0"
+date-released: "2025-01-01"
+license: "CC-BY-NC-ND-4.0"
+repository-code: "https://github.com/VOTRE-USERNAME-GITHUB/digimaths-etude-fonctions"
+abstract: >
+  Premier guide de la série pédagogique DigiMaths, consacré à l'étude des fonctions
+  au secondaire selon la démarche Concret -> GeoGebra -> Algébrique. Sept modules
+  couvrent la continuité, les intersections, les asymptotes, le théorème des valeurs
+  intermédiaires, la fonction inverse, la dérivée et les points d'extrémum/inflexion,
+  avec scripts GeoGebra et usage raisonné de l'intelligence artificielle.
+keywords:
+  - mathématiques
+  - didactique
+  - GeoGebra
+  - étude de fonctions
+  - intelligence artificielle
+  - enseignement secondaire
+  - Maroc
