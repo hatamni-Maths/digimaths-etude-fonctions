@@ -57,7 +57,7 @@ Si vous utilisez ce guide, merci de le citer :
 ```
 Atamni, E. (2025). Étude des fonctions entre concret et numérique : guide à l'usage
 des enseignants. Série DigiMaths n°1, Club DigiMaths, Lycée Mohammed VI,
-Imouzzer Kandar, Maroc. [DOI à compléter après dépôt Zenodo]
+Imouzzer Kandar, Maroc. https://doi.org/10.5281/zenodo.20793276
 ```
 
 Voir aussi le fichier [`CITATION.cff`](./CITATION.cff).
