@@ -9,7 +9,8 @@ authors:
     affiliation: "Club DigiMaths, Lycée Mohammed VI, Imouzzer Kandar — Direction Provinciale de Sefrou, Académie Régionale Fès-Meknès, Maroc"
 version: "1.0.0"
 date-released: "2026-06-22"
-license: "10.5281/zenodo.20793276"
+license: "CC-BY-NC-ND-4.0"
+doi: "10.5281/zenodo.20793276"
 repository-code: "https://github.com/hatamni-Maths/digimaths-etude-fonctions"
 abstract: >
   Premier guide de la série pédagogique DigiMaths, consacré à l'étude des fonctions
