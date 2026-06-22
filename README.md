@@ -1,6 +1,6 @@
 # Étude des fonctions entre concret et numérique
 
-**Série DigiMaths n°1** — Guide à l'usage des enseignants
+**Guide DigiMaths n°1** — Guide à l'usage des enseignants
 Dr. El Houssin Atamni — 2025
 
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
@@ -41,8 +41,8 @@ Le Club DigiMaths a été fondé en 2025 au sein du Lycée Mohammed VI d'Imouzze
 ## Guides associés de la collection DigiMaths
 
 - **N°1 — Étude des fonctions entre concret et numérique** *(ce dépôt)*
-- N°2 — [Concret & GeoGebra : suites numériques](https://github.com/VOTRE-USERNAME-GITHUB/digimaths-suites-numeriques)
-- N°3 — [L'IA au service des enseignants de mathématiques](https://github.com/VOTRE-USERNAME-GITHUB/digimaths-ia-enseignants)
+- N°2 — [Concret & GeoGebra : suites numériques](https://github.com/hatamni-Maths/digimaths-suites-numeriques)
+- N°3 — [L'IA au service des enseignants de mathématiques](https://github.com/hatamni-Maths/digimaths-ia-enseignants)
 
 ## Auteur
 
