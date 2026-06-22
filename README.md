@@ -3,7 +3,7 @@
 **Guide DigiMaths n°1** — Guide à l'usage des enseignants
 Dr. El Houssin Atamni — 2025
 
-![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+License: doi: 10.5281/zenodo.20793276
 https://doi.org/10.5281/zenodo.20793276
 
 ## Présentation
